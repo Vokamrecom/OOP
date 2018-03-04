@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfShchet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Shchet>
+    <Nomer>1</Nomer>
+    <Type>Обмен валют</Type>
+    <Balans>123</Balans>
+    <Dates>21.02.2018 0:00:00</Dates>
+    <types1>
+      <string>Подключение интернет банкинга</string>
+    </types1>
+    <Vladelec />
+  </Shchet>
+  <Shchet>
+    <Nomer>1</Nomer>
+    <Type>Обмен валют</Type>
+    <Balans>123</Balans>
+    <Dates>21.02.2018 0:00:00</Dates>
+    <types1>
+      <string>Подключение интернет банкинга</string>
+    </types1>
+    <Vladelec>
+      <string>Ермак Кирилл Владимрович, Мужской, МР213, 20 октября 2010 г.</string>
+    </Vladelec>
+  </Shchet>
+</ArrayOfShchet>r>213</Nomer>
+    <Type>Денежные переводы</Type>
+    <Balans>132</Balans>
+    <Dates>22.02.2018 0:00:00</Dates>
+    <types1>
+      <string>Подключение интернет банкинга</string>
+    </types1>
+    <Vladelec>
+      <string>213 213 321, Мужской, 123, 22 февраля 2018 г.</string>
+    </Vladelec>
+  </Shchet>
+</ArrayOfShchet>

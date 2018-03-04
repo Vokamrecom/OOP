@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<ArrayOfShchet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Shchet>
+    <Nomer>213</Nomer>
+    <Type>Денежные переводы</Type>
+    <Balans>123</Balans>
+    <Dates>04.03.2018 0:00:00</Dates>
+    <types1>
+      <string>Подключение интернет банкинга</string>
+    </types1>
+    <Vladelec>
+      <string>фыяч ячс яс, Мужской, мс, 4 марта 2018 г.</string>
+    </Vladelec>
+  </Shchet>
+</ArrayOfShchet>Type>Обмен валют</Type>
+    <Balans>123</Balans>
+    <Dates>01.03.2018 0:00:00</Dates>
+    <types1>
+      <string>Подключение интернет банкинга</string>
+    </types1>
+    <Vladelec>
+      <string>qwe asd zxc, Мужской, 1234, 1 марта 2018 г.</string>
+    </Vladelec>
+  </Shchet>
+  <Shchet>
+    <Nomer>3</Nomer>
+    <Type>Обмен валют</Type>
+    <Balans>123</Balans>
+    <Dates>01.03.2018 0:00:00</Dates>
+    <types1>
+      <string>Подключение интернет банкинга</string>
+    </types1>
+    <Vladelec>
+      <string>qwe asd zxc, Мужской, 1234, 1 марта 2018 г.</string>
+    </Vladelec>
+  </Shchet>
+  <Shchet>
+    <Nomer>3</Nomer>
+    <Type>Обмен валют</Type>
+    <Balans>124</Balans>
+    <Dates>01.03.2018 0:00:00</Dates>
+    <types1>
+      <string>Подключение интернет банкинга</string>
+    </types1>
+    <Vladelec>
+      <string>qwe asd zxc, Мужской, 1234, 1 марта 2018 г.</string>
+    </Vladelec>
+  </Shchet>
+  <Shchet>
+    <Nomer>4</Nomer>
+    <Type>Обмен валют</Type>
+    <Balans>124</Balans>
+    <Dates>01.03.2018 0:00:00</Dates>
+    <types1>
+      <string>Подключение интернет банкинга</string>
+    </types1>
+    <Vladelec>
+      <string>qwe asd zxc, Мужской, 1234, 1 марта 2018 г.</string>
+    </Vladelec>
+  </Shchet>
+  <Shchet>
+    <Nomer>4</Nomer>
+    <Type>Обмен валют</Type>
+    <Balans>231</Balans>
+    <Dates>01.03.2018 0:00:00</Dates>
+    <types1>
+      <string>Подключение интернет банкинга</string>
+    </types1>
+    <Vladelec>
+      <string>qwe asd zxc, Мужской, 1234, 1 марта 2018 г.</string>
+    </Vladelec>
+  </Shchet>
+</ArrayOfShchet>
