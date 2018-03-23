@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6F0C9330-22B4-4784-BC4F-E176E265F75F}</ProjectGuid>
+    <ProjectGuid>{733C131C-3BE2-4A58-9C49-8C9D5C25D0F3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>_4_5</RootNamespace>
     <AssemblyName>4-5</AssemblyName>
@@ -85,6 +85,8 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <Resource Include="Normal Select.ani" />
+    <Resource Include="Images\Move.ani" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -92,6 +94,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\кирилл.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\bold.png" />
+    <Resource Include="Images\disketa.png" />
+    <Resource Include="Images\folder.png" />
+    <Resource Include="Images\italic.png" />
+    <Resource Include="Images\nazad.png" />
+    <Resource Include="Images\povtor.png" />
+    <Resource Include="Images\printer.png" />
+    <Resource Include="Images\scissors.png" />
+    <Resource Include="Images\underline.png" />
+    <Resource Include="Images\блокнот.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
