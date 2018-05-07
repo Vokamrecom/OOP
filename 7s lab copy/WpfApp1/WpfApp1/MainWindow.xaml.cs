@@ -48,7 +48,6 @@ namespace WpfApp1
                 info += "\n\tБаза данных: " + connection.Database;
                 info += "\n\tСервер: " + connection.DataSource;
                 info += "\n\tВерсия сервера: " + connection.ServerVersion;
-                info += "\n\tСостояние: " + connection.State;
                 info += "\n\tWorkstationld: " + connection.WorkstationId;
             }
 

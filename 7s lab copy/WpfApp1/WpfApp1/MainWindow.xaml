@@ -38,11 +38,11 @@
         <Button Name="button6" Content="Чистка datagrid" HorizontalAlignment="Left" Margin="560,152.2,0,0" Grid.Row="1" VerticalAlignment="Top" Width="97" Click="Button6_Click" Height="28"/>
 
         <DataGrid x:Name="BooksGrid" Margin="240,91.2,0,0" Grid.Row="1" Height="186" VerticalAlignment="Top" HorizontalAlignment="Left" Width="313">
-            <!--<DataGrid.Columns>
+            <DataGrid.Columns>
                 <DataGridTextColumn Binding="{Binding Title}" Header="Модель" Width="120"/>
                 <DataGridTextColumn Binding="{Binding Company}" Header="Производитель" Width="125"/>
                 <DataGridTextColumn Binding="{Binding Price}" Header="Цена" Width="80"/>
-            </DataGrid.Columns>-->
+            </DataGrid.Columns>
         </DataGrid>
         <DataGrid x:Name="AuthorsGrid" Visibility="Collapsed" Margin="560,91.2,0,0" Grid.Row="1" Height="186" VerticalAlignment="Top" HorizontalAlignment="Left" Width="263">
             <!--<DataGrid.Columns>
